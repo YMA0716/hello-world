@@ -1,1 +1,2 @@
 钢卷检测
+训练时的imgsize和程序里的input_size应该保持一致
