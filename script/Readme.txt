@@ -1,1 +1,2 @@
 #voctoyolo 是将voc数据集转换成yolo格式
+#labelFiter是将labelImg标注的数据筛选label
